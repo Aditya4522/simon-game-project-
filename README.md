@@ -1,1 +1,1 @@
-view live https://adityagou.github.io/simon-game-project-/
+view live (https://aditya4522.github.io/simon-game-project-/)
